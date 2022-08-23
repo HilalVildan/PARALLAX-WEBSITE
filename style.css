@@ -41,7 +41,7 @@ body {
 .text {
   text-align: center;
   opacity: 0.6;
-  font-size: 14px;
+  font-size: 20px;
   height: 250px;
   display: flex;
   flex-direction: column;
